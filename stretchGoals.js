@@ -1,3 +1,19 @@
+/* Stretch Goals
+
+Stretch Goals
+
+[] Re-organize your code to make use of functions
+[] Allow the user to both complete and uncomplete to-do items
+[] Allow the user to fully delete a to-do item from the list
+[] Allow the user to edit the text of an existing to-do item
+[] Get creative! Add a new feature that you would find useful in a to-do list
+
+*/
+
+
+
+
+
 const prompt = require('prompt-sync')({
     sigint: true
 });
